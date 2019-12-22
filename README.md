@@ -1,3 +1,5 @@
-# practice2
-2nd day of git practice
-git learning
+# git practice
+Creating git repository
+adding files
+committing changes
+merges branches
